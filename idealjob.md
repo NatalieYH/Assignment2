@@ -10,3 +10,12 @@
 - Solid understanding of Google supported languages such as C++, Java, and Python
 - Passion for AI
 
+## Luke Green
+### Ideal Job Title:
+- Senior Software Engineer
+### Requirements:
+- Degree in computer science, software engineering or equivalent
+- Solid C++ programming skills
+- Strong 3D development background
+- Strong mathematics and computational geometry skills
+- Experience working on multiple 3D game/rendering engines
